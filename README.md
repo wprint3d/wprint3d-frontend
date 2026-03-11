@@ -6,7 +6,10 @@
 </div>
 
 > [!WARNING]
-> This repository is deprecated as a standalone project. WPrint 3D now lives in the monorepo: https://github.com/wprint3d/wprint3d
+> This repository is deprecated as a standalone project.
+> 
+> WPrint 3D now lives in the monorepo: https://github.com/wprint3d/wprint3d
+> 
 > Please use that repository for current development, setup, and documentation.
 
 ## Dependencies
