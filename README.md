@@ -5,6 +5,10 @@
     </p>
 </div>
 
+> [!WARNING]
+> This repository is deprecated as a standalone project. WPrint 3D now lives in the monorepo: https://github.com/wprint3d/wprint3d
+> Please use that repository for current development, setup, and documentation.
+
 ## Dependencies
 
 - **Node.js 21.x**
@@ -36,7 +40,7 @@ These arguments should be controlled from the `docker-compose` file within **wpr
 
 ## Usage
 
-This project is designed to be used in conjunction with **wprint3d-core**, please check the [core repository](https://github.com/wprint3d/wprint3d-core) instructions for more information.
+This project has moved into the [WPrint 3D monorepo](https://github.com/wprint3d/wprint3d). Please follow that repository for current usage, setup, and development instructions.
 
 ## License
 
